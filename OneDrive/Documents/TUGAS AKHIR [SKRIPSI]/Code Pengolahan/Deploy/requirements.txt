@@ -1,0 +1,17 @@
+streamlit
+streamlit-option-menu
+pipreqs
+
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+sklearn
+regex
+imblearn
+wordcloud
+Sastrawi
+imblearn
+
+# pip install -r requirements.txt
